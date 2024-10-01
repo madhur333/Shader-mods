@@ -1,5 +1,5 @@
 This project includes a post-processing filter for a vibrant cyberpunk aesthetic and an ASCII filter that transforms visuals into retro text art. Perfect for enhancing games and visual projects with a unique style!
-# How to Install ReShade and Add Cyberpunk Filters
+# How to Install ReShade and Add Cyberpunk Mods
 
 ## Step 1: Download ReShade
 1. Go to [reshade.me](https://reshade.me/) and download the latest version.
