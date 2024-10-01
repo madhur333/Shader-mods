@@ -6,7 +6,7 @@ This project includes a post-processing filter for a vibrant cyberpunk aesthetic
 2. Run the installer.
 
 ## Step 2: Install ReShade
-1. **Select the Game**: Click "Select Game" and find your game’s executable file (e.g., `game.exe`).
+1. **Select the Game**: Click "Select Game" and find your game’s executable file (e.g., `cyberpunk.exe`).
 2. **Choose DirectX Version**: Select the appropriate DirectX version (usually Direct3D 10/11/12).
 3. **Install Shaders**: Check all boxes to download standard effects.
 
